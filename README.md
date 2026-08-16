@@ -4,6 +4,8 @@
 
 > Pick ingredients you have at home and get recipes you can cook. A pure-frontend, single-file app — works fully offline, double-click to open. Recipe data from cooklikehoc.com.
 
+![首页截图](screenshots/home.png)
+
 ---
 
 ## 📦 使用说明
