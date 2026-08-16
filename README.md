@@ -2,6 +2,8 @@
 
 > 勾一勾家里现有的食材，立刻知道今天能做什么菜。**纯前端、零安装、可完全离线**，一个 HTML 文件就是整个应用。
 
+> Pick ingredients you have at home and get recipes you can cook. A pure-frontend, single-file app — works fully offline, double-click to open. Recipe data from cooklikehoc.com.
+
 ---
 
 ## 📦 使用说明
